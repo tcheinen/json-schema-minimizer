@@ -11,7 +11,7 @@ usage: `cat data.json | ./json-schema-minimizer > minimum.json`
 | Number | 0 |
 | String | "" |
 | Array | Recursive reduction and duplicates are removed |
-| Object | Recursive reduction |
+| Object | Recursive reduction and duplicates are removed |
 
 for example
 ```json
