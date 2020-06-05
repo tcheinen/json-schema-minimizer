@@ -1,0 +1,17 @@
+{
+  "favorite_color": null,
+  "is_owner": true,
+  "age": 25,
+  "name": "Bob",
+  "generic_list": [
+    "hello",
+    "howdy",
+    55,
+    []
+  ],
+  "generic_object": {
+    "k1": "v1",
+    "k2": "v2",
+    "k3": 3
+  }
+}
